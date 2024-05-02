@@ -14,6 +14,7 @@
     "url": "(https://github.com/MOHAMED-RGUIG/products_api.git)"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^1.0.0-alpha.23"
   }
 }

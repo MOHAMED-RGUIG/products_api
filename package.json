@@ -1,0 +1,19 @@
+{
+  "name": "products_api",
+  "version": "1.0.0",
+  "description": "my products api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/MOHAMED-RGUIG/products_api.git)"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
